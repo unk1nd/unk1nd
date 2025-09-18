@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there
 
-<!--
-**unk1nd/unk1nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Usually don't post much on github and most of my public repoes are old outdated projects I did back in my school days.  
+Most of my projects I host in-house in my homelab and on local gitea server.  
 
-Here are some ideas to get you started:
+Will from time-to-time mirros some of the repoes up to github.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find out more about me?
+Check out my mind dump / tech blog [here](https://bendiksens.net)
+
+## Sosials
+
+[Bluesky](https://bsky.app/profile/bendiksens.net)  
+[X / Twitter](https://x.com/unk1nd)
