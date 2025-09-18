@@ -1,9 +1,9 @@
 ## Hi there
 
-Usually don't post much on github and most of my public repoes are old outdated projects I did back in my school days.  
+Usually don't post much on github public.  
 Most of my projects I host in-house in my homelab and on local gitea server.  
 
-Will from time-to-time mirros some of the repoes up to github.  
+Will from time-to-time mirros some of the repoes up to github as public repoes.  
 
 ## Find out more about me?
 Check out my mind dump / tech blog [here](https://bendiksens.net)
